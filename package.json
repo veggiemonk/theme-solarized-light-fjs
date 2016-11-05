@@ -26,5 +26,6 @@
     "bugs": {
         "url": "https://github.com/veggiemonk/theme-solarized-light-fjs/issues"
     },
-    "homepage": "https://github.com/veggiemonk/theme-solarized-light-fjs#readme"
+    "homepage": "https://github.com/veggiemonk/theme-solarized-light-fjs#readme",
+    "icon": "icon.png"
 }
