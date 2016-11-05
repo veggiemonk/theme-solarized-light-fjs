@@ -11,12 +11,20 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Solarized-light-fjs",
-                "uiTheme": "vs",
-                "path": "./themes/Solarized-light.tmTheme"
-            }
-        ]
-    }
+        "themes": [{
+            "label": "Solarized-light-fjs",
+            "uiTheme": "vs",
+            "path": "./themes/Solarized-light.tmTheme"
+        }]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/veggiemonk/theme-solarized-light-fjs.git"
+    },
+    "author": "veggiemonk <veggiemonk@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/veggiemonk/theme-solarized-light-fjs/issues"
+    },
+    "homepage": "https://github.com/veggiemonk/theme-solarized-light-fjs#readme"
 }
