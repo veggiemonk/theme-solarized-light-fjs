@@ -1,11 +1,11 @@
 {
-    "name": "theme-solarized-light-fjs",
-    "displayName": "Solarized-light-fjs",
-    "description": "Based on Solarized light and tailored for functional programming style in JavaScript",
-    "version": "1.1.0",
+    "name": "solarized-light-functional",
+    "displayName": "Solarized-light-functional",
+    "description": "Based on Solarized light and tailored for functional programming style.",
+    "version": "2.0.0",
     "publisher": "veggiemonk",
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.25.0"
     },
     "categories": [
         "Themes"
@@ -13,15 +13,15 @@
     "contributes": {
         "themes": [
             {
-                "label": "Solarized-light-fjs",
+                "label": "Solarized-light-functional",
                 "uiTheme": "vs",
-                "path": "./themes/Solarized-light.tmTheme"
+                "path": "./themes/Solarized-light-functional-color-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/veggiemonk/theme-solarized-light-fjs.git"
+        "url": "https://github.com/veggiemonk/theme-solarized-light-fjs.git"
     },
     "author": "veggiemonk <veggiemonk@outlook.com>",
     "license": "MIT",
