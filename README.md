@@ -25,3 +25,7 @@ Ask if you need any assistance
 It was not build from scratch, 
 it was imported with `yo code` ( [see instructions here](https://code.visualstudio.com/docs/tools/yocode) ) 
 from `http://colorsublime.com/theme/Solarized-light`
+
+# Full UI theme
+
+See https://github.com/veggiemonk/theme-solarized-light-functional
